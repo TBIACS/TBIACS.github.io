@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src: url('/fonts/BRUSHSTP.ttf') format('truetype');
+}
+
+body {
+    padding-top: 56px;
+}
+
+#titleName {
+    font-family: serif;
+}
